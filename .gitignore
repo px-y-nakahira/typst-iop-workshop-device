@@ -3,3 +3,14 @@
 *.pdf
 !/main.pdf
 *.bak
+
+# Claude Code
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Python/uv
+.venv/
+pyproject.toml
+uv.lock
+__pycache__/
+*.py[cod]

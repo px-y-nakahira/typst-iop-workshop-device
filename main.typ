@@ -196,7 +196,7 @@
 )
 // ADDED LINK
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0001_led", "LED点灯のサンプルコードはこちら")
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0001_led", "LED点灯のサンプルコードはこちら")
 ]
 #pagebreak()
 
@@ -527,7 +527,7 @@
 ]
 #v(20mm)
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0001_led", "LED点滅のサンプルコードはこちら")
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0001_led", "LED点滅のサンプルコードはこちら")
 ]
 #pagebreak()
 
@@ -617,7 +617,7 @@
 ]
 #v(20mm)
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0002_sht31", "温湿度取得のサンプルコードはこちら")
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0002_sht31", "温湿度取得のサンプルコードはこちら")
 ]
 #pagebreak()
 
@@ -700,7 +700,7 @@
   下記のコードを試してみましょう
 ]
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0003_http/", "HTTP通信のコード") 
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0003_http/", "HTTP通信のコード") 
 ]
 #v(10mm)
 #figure(
@@ -779,7 +779,7 @@
 ]
 #v(5mm)
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0004_mqtt_pub", "MQTT送信テストのコード") \
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0004_mqtt_pub", "MQTT送信テストのコード") \
 ]
 #v(5mm)
 #figure(
@@ -798,7 +798,7 @@
 ]
 #v(5mm)
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0005_mqtt_sub", "MQTT受信テストのコード") \
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0005_mqtt_sub", "MQTT受信テストのコード") \
 ]
 #figure(
   image("./images/Screenshot 2025-06-26 at 12.21.04.png", width: 30%),
@@ -822,7 +822,7 @@
 ]
 #v(10mm)
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0006_button", "ボタンを使ったMQTT送信デモ")
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0006_button", "ボタンを使ったMQTT送信デモ")
 ]
 #v(10mm)
 #figure(
@@ -859,7 +859,7 @@
   以下のコードをArduino IDEにコピーしてください。\
 ]
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0007_qsu", "Qsuプロトコルでのデータ送信")
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0007_qsu", "Qsuプロトコルでのデータ送信")
 ]
 #figure(
   image("./images/arduinojson.png", width: 60%),
@@ -921,7 +921,7 @@
   下記コードに証明書を貼り付けてください。\
 ]
 #align(center)[
-  #link("https://iop-workshop.vercel.app/0008_sawachi", "SAWACHIへのデータ送信")
+  #link("https://px-y-nakahira.github.io/iop-workshop-device-codes/0008_sawachi", "SAWACHIへのデータ送信")
 ]
 #pagebreak()
 
